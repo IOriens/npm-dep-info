@@ -1,0 +1,3 @@
+## showPackageInfo
+
+![](doc/screencut.jpg)
